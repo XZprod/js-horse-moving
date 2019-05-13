@@ -1,0 +1,13 @@
+.form {
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px 0 15px 15px;
+}
+
+.form span {
+    font-weight: bold;
+}
+
+.form .ti {
+    margin-bottom: 10px;
+}
